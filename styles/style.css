@@ -385,6 +385,7 @@
     height: 48px;
     gap: 48px;
 }
+
 .footer__social-list-item {
     list-style: none;
 }
@@ -392,5 +393,5 @@
 .footer__social-icon {
     display: block;
     height: 48px;
-    width: 48px;   
+    width: 48px;
 }
